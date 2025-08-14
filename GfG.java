@@ -13,7 +13,7 @@ class Node {
 
 @SuppressWarnings("unused")
 class GfG {
-
+ // Class GFG
     // A utility function to insert a new node
     // with the given key
     static Node insert(Node root, int key) {
